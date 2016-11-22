@@ -1,13 +1,11 @@
-﻿using System;
-using System.Collections.Generic;
-using System.Data.Entity.Migrations;
-using System.Linq;
-using System.Text;
-using System.Threading.Tasks;
-
-namespace Ignition.Repo.Migrations
+﻿namespace Ignition.Repo.Migrations
 {
-    internal sealed class Configuration : DbMigrationsConfiguration<igniteDataContext>
+    using System;
+    using System.Data.Entity;
+    using System.Data.Entity.Migrations;
+    using System.Linq;
+
+    internal sealed class Configuration : DbMigrationsConfiguration<Ignition.Repo.igniteDataContext>
     {
         public Configuration()
         {

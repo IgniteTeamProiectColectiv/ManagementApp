@@ -8,7 +8,7 @@ using System.Threading.Tasks;
 
 namespace Ignition.Repo
 {
-    class igniteDataContext : DbContext
+    public class igniteDataContext : DbContext
     {
         public DbSet<User> Users { get; set; }
 
@@ -20,7 +20,7 @@ namespace Ignition.Repo
         private static string GetConnectionString()
         {
             //return ConfigurationManager.ConnectionStrings["eRecruitment"].ConnectionString;
-            return @"Data Source=.\SQLEXPRESS;Initial Catalog=ignite;Integrated Security=true;";
+            return @"Data Source=FLORIN-PC\SQLEXPRESS;Initial Catalog=ignite;Integrated Security=true;";
         }
     }
 

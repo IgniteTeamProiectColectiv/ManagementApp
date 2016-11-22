@@ -7,7 +7,7 @@ using System.Threading.Tasks;
 
 namespace Ignition.Repo.Model
 {
-    class User
+    public class User
     {
         [Key]
         public int Id { get; set; }
@@ -19,5 +19,6 @@ namespace Ignition.Repo.Model
         [MinLength(4)]
         [MaxLength(25)]
         public string Password { get; set; }
+        public int Role { get; set; }
     }
 }

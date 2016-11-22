@@ -8,3 +8,13 @@ E:\FACULTATE\sem 5\05.Proiect Colectiv\Ignition\Ignition.Repo\bin\Debug\EntityFr
 E:\FACULTATE\sem 5\05.Proiect Colectiv\Ignition\Ignition.Repo\obj\Debug\Ignition.Repo.csprojResolveAssemblyReference.cache
 E:\FACULTATE\sem 5\05.Proiect Colectiv\Ignition\Ignition.Repo\obj\Debug\Ignition.Repo.dll
 E:\FACULTATE\sem 5\05.Proiect Colectiv\Ignition\Ignition.Repo\obj\Debug\Ignition.Repo.pdb
+E:\school\colectiv\ManagementApp\Ignition\Ignition.Repo\bin\Debug\Ignition.Repo.dll.config
+E:\school\colectiv\ManagementApp\Ignition\Ignition.Repo\bin\Debug\Ignition.Repo.dll
+E:\school\colectiv\ManagementApp\Ignition\Ignition.Repo\bin\Debug\Ignition.Repo.pdb
+E:\school\colectiv\ManagementApp\Ignition\Ignition.Repo\bin\Debug\EntityFramework.dll
+E:\school\colectiv\ManagementApp\Ignition\Ignition.Repo\bin\Debug\EntityFramework.SqlServer.dll
+E:\school\colectiv\ManagementApp\Ignition\Ignition.Repo\bin\Debug\EntityFramework.xml
+E:\school\colectiv\ManagementApp\Ignition\Ignition.Repo\bin\Debug\EntityFramework.SqlServer.xml
+E:\school\colectiv\ManagementApp\Ignition\Ignition.Repo\obj\Debug\Ignition.Repo.csprojResolveAssemblyReference.cache
+E:\school\colectiv\ManagementApp\Ignition\Ignition.Repo\obj\Debug\Ignition.Repo.dll
+E:\school\colectiv\ManagementApp\Ignition\Ignition.Repo\obj\Debug\Ignition.Repo.pdb
