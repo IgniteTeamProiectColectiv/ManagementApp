@@ -11,6 +11,7 @@ namespace Ignition.Repo
     public class igniteDataContext : DbContext
     {
         public DbSet<User> Users { get; set; }
+        public DbSet<Document> Documents { get; set; }
 
         public igniteDataContext() : base(GetConnectionString())
         {
