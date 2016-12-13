@@ -18,9 +18,12 @@ namespace Ignition.Repo.Model
 
         public virtual Flux flux { get; set; }
 
+        public int signature { get; set; }
+
         public Document()
         {
             version = 0.1f;
+            signature = -1;
             fields = new List<Tuple<string, string>>();
         }
 
