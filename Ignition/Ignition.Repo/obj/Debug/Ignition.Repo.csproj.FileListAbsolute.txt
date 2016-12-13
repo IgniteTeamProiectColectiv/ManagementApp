@@ -1,33 +1,10 @@
-<<<<<<< Updated upstream
-E:\FACULTATE\sem 5\05.Proiect Colectiv\Ignition\Ignition.Repo\bin\Debug\Ignition.Repo.dll.config
-E:\FACULTATE\sem 5\05.Proiect Colectiv\Ignition\Ignition.Repo\bin\Debug\Ignition.Repo.dll
-E:\FACULTATE\sem 5\05.Proiect Colectiv\Ignition\Ignition.Repo\bin\Debug\Ignition.Repo.pdb
-E:\FACULTATE\sem 5\05.Proiect Colectiv\Ignition\Ignition.Repo\bin\Debug\EntityFramework.dll
-E:\FACULTATE\sem 5\05.Proiect Colectiv\Ignition\Ignition.Repo\bin\Debug\EntityFramework.SqlServer.dll
-E:\FACULTATE\sem 5\05.Proiect Colectiv\Ignition\Ignition.Repo\bin\Debug\EntityFramework.xml
-E:\FACULTATE\sem 5\05.Proiect Colectiv\Ignition\Ignition.Repo\bin\Debug\EntityFramework.SqlServer.xml
-E:\FACULTATE\sem 5\05.Proiect Colectiv\Ignition\Ignition.Repo\obj\Debug\Ignition.Repo.csprojResolveAssemblyReference.cache
-E:\FACULTATE\sem 5\05.Proiect Colectiv\Ignition\Ignition.Repo\obj\Debug\Ignition.Repo.dll
-E:\FACULTATE\sem 5\05.Proiect Colectiv\Ignition\Ignition.Repo\obj\Debug\Ignition.Repo.pdb
-E:\school\colectiv\ManagementApp\Ignition\Ignition.Repo\bin\Debug\Ignition.Repo.dll.config
-E:\school\colectiv\ManagementApp\Ignition\Ignition.Repo\bin\Debug\Ignition.Repo.dll
-E:\school\colectiv\ManagementApp\Ignition\Ignition.Repo\bin\Debug\Ignition.Repo.pdb
-E:\school\colectiv\ManagementApp\Ignition\Ignition.Repo\bin\Debug\EntityFramework.dll
-E:\school\colectiv\ManagementApp\Ignition\Ignition.Repo\bin\Debug\EntityFramework.SqlServer.dll
-E:\school\colectiv\ManagementApp\Ignition\Ignition.Repo\bin\Debug\EntityFramework.xml
-E:\school\colectiv\ManagementApp\Ignition\Ignition.Repo\bin\Debug\EntityFramework.SqlServer.xml
-E:\school\colectiv\ManagementApp\Ignition\Ignition.Repo\obj\Debug\Ignition.Repo.csprojResolveAssemblyReference.cache
-E:\school\colectiv\ManagementApp\Ignition\Ignition.Repo\obj\Debug\Ignition.Repo.dll
-E:\school\colectiv\ManagementApp\Ignition\Ignition.Repo\obj\Debug\Ignition.Repo.pdb
-=======
-D:\facultate\Proiect colectiv\ManagementApp\Ignition\Ignition.Repo\bin\Debug\Ignition.Repo.dll.config
-D:\facultate\Proiect colectiv\ManagementApp\Ignition\Ignition.Repo\bin\Debug\Ignition.Repo.dll
-D:\facultate\Proiect colectiv\ManagementApp\Ignition\Ignition.Repo\bin\Debug\Ignition.Repo.pdb
-D:\facultate\Proiect colectiv\ManagementApp\Ignition\Ignition.Repo\bin\Debug\EntityFramework.dll
-D:\facultate\Proiect colectiv\ManagementApp\Ignition\Ignition.Repo\bin\Debug\EntityFramework.SqlServer.dll
-D:\facultate\Proiect colectiv\ManagementApp\Ignition\Ignition.Repo\bin\Debug\EntityFramework.xml
-D:\facultate\Proiect colectiv\ManagementApp\Ignition\Ignition.Repo\bin\Debug\EntityFramework.SqlServer.xml
-D:\facultate\Proiect colectiv\ManagementApp\Ignition\Ignition.Repo\obj\Debug\Ignition.Repo.csprojResolveAssemblyReference.cache
-D:\facultate\Proiect colectiv\ManagementApp\Ignition\Ignition.Repo\obj\Debug\Ignition.Repo.dll
-D:\facultate\Proiect colectiv\ManagementApp\Ignition\Ignition.Repo\obj\Debug\Ignition.Repo.pdb
->>>>>>> Stashed changes
+C:\Users\robert\Desktop\ManagementApp\Ignition\Ignition.Repo\bin\Debug\Ignition.Repo.dll.config
+C:\Users\robert\Desktop\ManagementApp\Ignition\Ignition.Repo\bin\Debug\Ignition.Repo.dll
+C:\Users\robert\Desktop\ManagementApp\Ignition\Ignition.Repo\bin\Debug\Ignition.Repo.pdb
+C:\Users\robert\Desktop\ManagementApp\Ignition\Ignition.Repo\bin\Debug\EntityFramework.dll
+C:\Users\robert\Desktop\ManagementApp\Ignition\Ignition.Repo\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\robert\Desktop\ManagementApp\Ignition\Ignition.Repo\bin\Debug\EntityFramework.xml
+C:\Users\robert\Desktop\ManagementApp\Ignition\Ignition.Repo\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\robert\Desktop\ManagementApp\Ignition\Ignition.Repo\obj\Debug\Ignition.Repo.csprojResolveAssemblyReference.cache
+C:\Users\robert\Desktop\ManagementApp\Ignition\Ignition.Repo\obj\Debug\Ignition.Repo.dll
+C:\Users\robert\Desktop\ManagementApp\Ignition\Ignition.Repo\obj\Debug\Ignition.Repo.pdb

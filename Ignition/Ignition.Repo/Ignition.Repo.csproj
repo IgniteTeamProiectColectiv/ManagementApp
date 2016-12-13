@@ -52,6 +52,8 @@
   <ItemGroup>
     <Compile Include="igniteDataContext.cs" />
     <Compile Include="Migrations\Configuration.cs" />
+    <Compile Include="Model\Document.cs" />
+    <Compile Include="Model\Flux.cs" />
     <Compile Include="Model\User.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
   </ItemGroup>
