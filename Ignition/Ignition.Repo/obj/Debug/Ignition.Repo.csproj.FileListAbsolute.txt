@@ -1,0 +1,10 @@
+C:\Users\robert\Desktop\ManagementApp\Ignition\Ignition.Repo\bin\Debug\Ignition.Repo.dll.config
+C:\Users\robert\Desktop\ManagementApp\Ignition\Ignition.Repo\bin\Debug\Ignition.Repo.dll
+C:\Users\robert\Desktop\ManagementApp\Ignition\Ignition.Repo\bin\Debug\Ignition.Repo.pdb
+C:\Users\robert\Desktop\ManagementApp\Ignition\Ignition.Repo\bin\Debug\EntityFramework.dll
+C:\Users\robert\Desktop\ManagementApp\Ignition\Ignition.Repo\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\robert\Desktop\ManagementApp\Ignition\Ignition.Repo\bin\Debug\EntityFramework.xml
+C:\Users\robert\Desktop\ManagementApp\Ignition\Ignition.Repo\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\robert\Desktop\ManagementApp\Ignition\Ignition.Repo\obj\Debug\Ignition.Repo.csprojResolveAssemblyReference.cache
+C:\Users\robert\Desktop\ManagementApp\Ignition\Ignition.Repo\obj\Debug\Ignition.Repo.dll
+C:\Users\robert\Desktop\ManagementApp\Ignition\Ignition.Repo\obj\Debug\Ignition.Repo.pdb
