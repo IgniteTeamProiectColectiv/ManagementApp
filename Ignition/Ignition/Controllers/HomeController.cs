@@ -15,11 +15,5 @@ namespace Ignition.Controllers
             return View();
         }
 
-        public ActionResult ReaderHome()
-        {
-            ViewBag.Title = "Home Page";
-
-            return View();
-        }
     }
 }

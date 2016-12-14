@@ -25,7 +25,7 @@ namespace Ignition.Repo
         {
 
         }
-        private static string GetConnectionString()
+        public static string GetConnectionString()
         {
             return connectionString;
         }

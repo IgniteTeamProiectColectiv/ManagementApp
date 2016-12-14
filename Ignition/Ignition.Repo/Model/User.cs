@@ -20,5 +20,11 @@ namespace Ignition.Repo.Model
         [MaxLength(25)]
         public string Password { get; set; }
         public int Role { get; set; }
+
+        public User(String _username, String _password)
+        {
+            Username = _username;
+            Password = _password;
+        }
     }
 }

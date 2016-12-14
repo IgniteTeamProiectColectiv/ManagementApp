@@ -1,198 +1,65 @@
-<<<<<<< Updated upstream
-E:\FACULTATE\sem 5\05.Proiect Colectiv\Ignition\Ignition\bin\ApplicationInsights.config
-E:\FACULTATE\sem 5\05.Proiect Colectiv\Ignition\Ignition\bin\roslyn\csc.exe
-E:\FACULTATE\sem 5\05.Proiect Colectiv\Ignition\Ignition\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
-E:\FACULTATE\sem 5\05.Proiect Colectiv\Ignition\Ignition\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
-E:\FACULTATE\sem 5\05.Proiect Colectiv\Ignition\Ignition\bin\roslyn\Microsoft.CodeAnalysis.dll
-E:\FACULTATE\sem 5\05.Proiect Colectiv\Ignition\Ignition\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
-E:\FACULTATE\sem 5\05.Proiect Colectiv\Ignition\Ignition\bin\roslyn\Microsoft.CSharp.Core.targets
-E:\FACULTATE\sem 5\05.Proiect Colectiv\Ignition\Ignition\bin\roslyn\Microsoft.VisualBasic.Core.targets
-E:\FACULTATE\sem 5\05.Proiect Colectiv\Ignition\Ignition\bin\roslyn\System.Collections.Immutable.dll
-E:\FACULTATE\sem 5\05.Proiect Colectiv\Ignition\Ignition\bin\roslyn\System.Reflection.Metadata.dll
-E:\FACULTATE\sem 5\05.Proiect Colectiv\Ignition\Ignition\bin\roslyn\vbc.exe
-E:\FACULTATE\sem 5\05.Proiect Colectiv\Ignition\Ignition\bin\roslyn\VBCSCompiler.exe
-E:\FACULTATE\sem 5\05.Proiect Colectiv\Ignition\Ignition\bin\roslyn\VBCSCompiler.exe.config
-E:\FACULTATE\sem 5\05.Proiect Colectiv\Ignition\Ignition\bin\Ignition.dll.config
-E:\FACULTATE\sem 5\05.Proiect Colectiv\Ignition\Ignition\bin\Ignition.dll
-E:\FACULTATE\sem 5\05.Proiect Colectiv\Ignition\Ignition\bin\Ignition.pdb
-E:\FACULTATE\sem 5\05.Proiect Colectiv\Ignition\Ignition\bin\Antlr3.Runtime.dll
-E:\FACULTATE\sem 5\05.Proiect Colectiv\Ignition\Ignition\bin\EntityFramework.dll
-E:\FACULTATE\sem 5\05.Proiect Colectiv\Ignition\Ignition\bin\EntityFramework.SqlServer.dll
-E:\FACULTATE\sem 5\05.Proiect Colectiv\Ignition\Ignition\bin\Ignition.Repo.dll
-E:\FACULTATE\sem 5\05.Proiect Colectiv\Ignition\Ignition\bin\Microsoft.AI.Agent.Intercept.dll
-E:\FACULTATE\sem 5\05.Proiect Colectiv\Ignition\Ignition\bin\Microsoft.AI.DependencyCollector.dll
-E:\FACULTATE\sem 5\05.Proiect Colectiv\Ignition\Ignition\bin\Microsoft.AI.PerfCounterCollector.dll
-E:\FACULTATE\sem 5\05.Proiect Colectiv\Ignition\Ignition\bin\Microsoft.AI.ServerTelemetryChannel.dll
-E:\FACULTATE\sem 5\05.Proiect Colectiv\Ignition\Ignition\bin\Microsoft.AI.Web.dll
-E:\FACULTATE\sem 5\05.Proiect Colectiv\Ignition\Ignition\bin\Microsoft.AI.WindowsServer.dll
-E:\FACULTATE\sem 5\05.Proiect Colectiv\Ignition\Ignition\bin\Microsoft.ApplicationInsights.dll
-E:\FACULTATE\sem 5\05.Proiect Colectiv\Ignition\Ignition\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
-E:\FACULTATE\sem 5\05.Proiect Colectiv\Ignition\Ignition\bin\Microsoft.Web.Infrastructure.dll
-E:\FACULTATE\sem 5\05.Proiect Colectiv\Ignition\Ignition\bin\Newtonsoft.Json.dll
-E:\FACULTATE\sem 5\05.Proiect Colectiv\Ignition\Ignition\bin\System.Net.Http.Formatting.dll
-E:\FACULTATE\sem 5\05.Proiect Colectiv\Ignition\Ignition\bin\System.Web.Helpers.dll
-E:\FACULTATE\sem 5\05.Proiect Colectiv\Ignition\Ignition\bin\System.Web.Http.dll
-E:\FACULTATE\sem 5\05.Proiect Colectiv\Ignition\Ignition\bin\System.Web.Http.WebHost.dll
-E:\FACULTATE\sem 5\05.Proiect Colectiv\Ignition\Ignition\bin\System.Web.Mvc.dll
-E:\FACULTATE\sem 5\05.Proiect Colectiv\Ignition\Ignition\bin\System.Web.Optimization.dll
-E:\FACULTATE\sem 5\05.Proiect Colectiv\Ignition\Ignition\bin\System.Web.Razor.dll
-E:\FACULTATE\sem 5\05.Proiect Colectiv\Ignition\Ignition\bin\System.Web.WebPages.Deployment.dll
-E:\FACULTATE\sem 5\05.Proiect Colectiv\Ignition\Ignition\bin\System.Web.WebPages.dll
-E:\FACULTATE\sem 5\05.Proiect Colectiv\Ignition\Ignition\bin\System.Web.WebPages.Razor.dll
-E:\FACULTATE\sem 5\05.Proiect Colectiv\Ignition\Ignition\bin\WebGrease.dll
-E:\FACULTATE\sem 5\05.Proiect Colectiv\Ignition\Ignition\bin\Ignition.Repo.pdb
-E:\FACULTATE\sem 5\05.Proiect Colectiv\Ignition\Ignition\bin\EntityFramework.xml
-E:\FACULTATE\sem 5\05.Proiect Colectiv\Ignition\Ignition\bin\EntityFramework.SqlServer.xml
-E:\FACULTATE\sem 5\05.Proiect Colectiv\Ignition\Ignition\bin\Microsoft.AI.DependencyCollector.xml
-E:\FACULTATE\sem 5\05.Proiect Colectiv\Ignition\Ignition\bin\Microsoft.AI.ServerTelemetryChannel.xml
-E:\FACULTATE\sem 5\05.Proiect Colectiv\Ignition\Ignition\bin\Microsoft.AI.Web.xml
-E:\FACULTATE\sem 5\05.Proiect Colectiv\Ignition\Ignition\bin\Microsoft.AI.WindowsServer.xml
-E:\FACULTATE\sem 5\05.Proiect Colectiv\Ignition\Ignition\bin\Microsoft.ApplicationInsights.xml
-E:\FACULTATE\sem 5\05.Proiect Colectiv\Ignition\Ignition\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
-E:\FACULTATE\sem 5\05.Proiect Colectiv\Ignition\Ignition\bin\Newtonsoft.Json.xml
-E:\FACULTATE\sem 5\05.Proiect Colectiv\Ignition\Ignition\bin\System.Net.Http.Formatting.xml
-E:\FACULTATE\sem 5\05.Proiect Colectiv\Ignition\Ignition\bin\System.Web.Helpers.xml
-E:\FACULTATE\sem 5\05.Proiect Colectiv\Ignition\Ignition\bin\System.Web.Http.xml
-E:\FACULTATE\sem 5\05.Proiect Colectiv\Ignition\Ignition\bin\System.Web.Http.WebHost.xml
-E:\FACULTATE\sem 5\05.Proiect Colectiv\Ignition\Ignition\bin\System.Web.Mvc.xml
-E:\FACULTATE\sem 5\05.Proiect Colectiv\Ignition\Ignition\bin\System.Web.Optimization.xml
-E:\FACULTATE\sem 5\05.Proiect Colectiv\Ignition\Ignition\bin\System.Web.Razor.xml
-E:\FACULTATE\sem 5\05.Proiect Colectiv\Ignition\Ignition\bin\System.Web.WebPages.xml
-E:\FACULTATE\sem 5\05.Proiect Colectiv\Ignition\Ignition\bin\System.Web.WebPages.Deployment.xml
-E:\FACULTATE\sem 5\05.Proiect Colectiv\Ignition\Ignition\bin\System.Web.WebPages.Razor.xml
-E:\FACULTATE\sem 5\05.Proiect Colectiv\Ignition\Ignition\bin\Antlr3.Runtime.pdb
-E:\FACULTATE\sem 5\05.Proiect Colectiv\Ignition\Ignition\obj\Debug\Ignition.API.csprojResolveAssemblyReference.cache
-E:\FACULTATE\sem 5\05.Proiect Colectiv\Ignition\Ignition\obj\Debug\Ignition.dll
-E:\FACULTATE\sem 5\05.Proiect Colectiv\Ignition\Ignition\obj\Debug\Ignition.pdb
-E:\school\colectiv\ManagementApp\Ignition\Ignition\bin\ApplicationInsights.config
-E:\school\colectiv\ManagementApp\Ignition\Ignition\bin\roslyn\csc.exe
-E:\school\colectiv\ManagementApp\Ignition\Ignition\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
-E:\school\colectiv\ManagementApp\Ignition\Ignition\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
-E:\school\colectiv\ManagementApp\Ignition\Ignition\bin\roslyn\Microsoft.CodeAnalysis.dll
-E:\school\colectiv\ManagementApp\Ignition\Ignition\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
-E:\school\colectiv\ManagementApp\Ignition\Ignition\bin\roslyn\Microsoft.CSharp.Core.targets
-E:\school\colectiv\ManagementApp\Ignition\Ignition\bin\roslyn\Microsoft.VisualBasic.Core.targets
-E:\school\colectiv\ManagementApp\Ignition\Ignition\bin\roslyn\System.Collections.Immutable.dll
-E:\school\colectiv\ManagementApp\Ignition\Ignition\bin\roslyn\System.Reflection.Metadata.dll
-E:\school\colectiv\ManagementApp\Ignition\Ignition\bin\roslyn\vbc.exe
-E:\school\colectiv\ManagementApp\Ignition\Ignition\bin\roslyn\VBCSCompiler.exe
-E:\school\colectiv\ManagementApp\Ignition\Ignition\bin\roslyn\VBCSCompiler.exe.config
-E:\school\colectiv\ManagementApp\Ignition\Ignition\bin\Ignition.dll.config
-E:\school\colectiv\ManagementApp\Ignition\Ignition\bin\Ignition.dll
-E:\school\colectiv\ManagementApp\Ignition\Ignition\bin\Ignition.pdb
-E:\school\colectiv\ManagementApp\Ignition\Ignition\bin\Antlr3.Runtime.dll
-E:\school\colectiv\ManagementApp\Ignition\Ignition\bin\EntityFramework.dll
-E:\school\colectiv\ManagementApp\Ignition\Ignition\bin\EntityFramework.SqlServer.dll
-E:\school\colectiv\ManagementApp\Ignition\Ignition\bin\Ignition.Repo.dll
-E:\school\colectiv\ManagementApp\Ignition\Ignition\bin\Microsoft.AI.Agent.Intercept.dll
-E:\school\colectiv\ManagementApp\Ignition\Ignition\bin\Microsoft.AI.DependencyCollector.dll
-E:\school\colectiv\ManagementApp\Ignition\Ignition\bin\Microsoft.AI.PerfCounterCollector.dll
-E:\school\colectiv\ManagementApp\Ignition\Ignition\bin\Microsoft.AI.ServerTelemetryChannel.dll
-E:\school\colectiv\ManagementApp\Ignition\Ignition\bin\Microsoft.AI.Web.dll
-E:\school\colectiv\ManagementApp\Ignition\Ignition\bin\Microsoft.AI.WindowsServer.dll
-E:\school\colectiv\ManagementApp\Ignition\Ignition\bin\Microsoft.ApplicationInsights.dll
-E:\school\colectiv\ManagementApp\Ignition\Ignition\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
-E:\school\colectiv\ManagementApp\Ignition\Ignition\bin\Microsoft.Web.Infrastructure.dll
-E:\school\colectiv\ManagementApp\Ignition\Ignition\bin\Newtonsoft.Json.dll
-E:\school\colectiv\ManagementApp\Ignition\Ignition\bin\System.Net.Http.Formatting.dll
-E:\school\colectiv\ManagementApp\Ignition\Ignition\bin\System.Web.Helpers.dll
-E:\school\colectiv\ManagementApp\Ignition\Ignition\bin\System.Web.Http.dll
-E:\school\colectiv\ManagementApp\Ignition\Ignition\bin\System.Web.Http.WebHost.dll
-E:\school\colectiv\ManagementApp\Ignition\Ignition\bin\System.Web.Mvc.dll
-E:\school\colectiv\ManagementApp\Ignition\Ignition\bin\System.Web.Optimization.dll
-E:\school\colectiv\ManagementApp\Ignition\Ignition\bin\System.Web.Razor.dll
-E:\school\colectiv\ManagementApp\Ignition\Ignition\bin\System.Web.WebPages.Deployment.dll
-E:\school\colectiv\ManagementApp\Ignition\Ignition\bin\System.Web.WebPages.dll
-E:\school\colectiv\ManagementApp\Ignition\Ignition\bin\System.Web.WebPages.Razor.dll
-E:\school\colectiv\ManagementApp\Ignition\Ignition\bin\WebGrease.dll
-E:\school\colectiv\ManagementApp\Ignition\Ignition\bin\Ignition.Repo.pdb
-E:\school\colectiv\ManagementApp\Ignition\Ignition\bin\EntityFramework.xml
-E:\school\colectiv\ManagementApp\Ignition\Ignition\bin\EntityFramework.SqlServer.xml
-E:\school\colectiv\ManagementApp\Ignition\Ignition\bin\Microsoft.AI.DependencyCollector.xml
-E:\school\colectiv\ManagementApp\Ignition\Ignition\bin\Microsoft.AI.ServerTelemetryChannel.xml
-E:\school\colectiv\ManagementApp\Ignition\Ignition\bin\Microsoft.AI.Web.xml
-E:\school\colectiv\ManagementApp\Ignition\Ignition\bin\Microsoft.AI.WindowsServer.xml
-E:\school\colectiv\ManagementApp\Ignition\Ignition\bin\Microsoft.ApplicationInsights.xml
-E:\school\colectiv\ManagementApp\Ignition\Ignition\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
-E:\school\colectiv\ManagementApp\Ignition\Ignition\bin\Newtonsoft.Json.xml
-E:\school\colectiv\ManagementApp\Ignition\Ignition\bin\System.Net.Http.Formatting.xml
-E:\school\colectiv\ManagementApp\Ignition\Ignition\bin\System.Web.Helpers.xml
-E:\school\colectiv\ManagementApp\Ignition\Ignition\bin\System.Web.Http.xml
-E:\school\colectiv\ManagementApp\Ignition\Ignition\bin\System.Web.Http.WebHost.xml
-E:\school\colectiv\ManagementApp\Ignition\Ignition\bin\System.Web.Mvc.xml
-E:\school\colectiv\ManagementApp\Ignition\Ignition\bin\System.Web.Optimization.xml
-E:\school\colectiv\ManagementApp\Ignition\Ignition\bin\System.Web.Razor.xml
-E:\school\colectiv\ManagementApp\Ignition\Ignition\bin\System.Web.WebPages.xml
-E:\school\colectiv\ManagementApp\Ignition\Ignition\bin\System.Web.WebPages.Deployment.xml
-E:\school\colectiv\ManagementApp\Ignition\Ignition\bin\System.Web.WebPages.Razor.xml
-E:\school\colectiv\ManagementApp\Ignition\Ignition\bin\Antlr3.Runtime.pdb
-E:\school\colectiv\ManagementApp\Ignition\Ignition\obj\Debug\Ignition.API.csprojResolveAssemblyReference.cache
-E:\school\colectiv\ManagementApp\Ignition\Ignition\obj\Debug\Ignition.dll
-E:\school\colectiv\ManagementApp\Ignition\Ignition\obj\Debug\Ignition.pdb
-=======
-D:\facultate\Proiect colectiv\ManagementApp\Ignition\Ignition\bin\ApplicationInsights.config
-D:\facultate\Proiect colectiv\ManagementApp\Ignition\Ignition\bin\roslyn\csc.exe
-D:\facultate\Proiect colectiv\ManagementApp\Ignition\Ignition\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
-D:\facultate\Proiect colectiv\ManagementApp\Ignition\Ignition\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
-D:\facultate\Proiect colectiv\ManagementApp\Ignition\Ignition\bin\roslyn\Microsoft.CodeAnalysis.dll
-D:\facultate\Proiect colectiv\ManagementApp\Ignition\Ignition\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
-D:\facultate\Proiect colectiv\ManagementApp\Ignition\Ignition\bin\roslyn\Microsoft.CSharp.Core.targets
-D:\facultate\Proiect colectiv\ManagementApp\Ignition\Ignition\bin\roslyn\Microsoft.VisualBasic.Core.targets
-D:\facultate\Proiect colectiv\ManagementApp\Ignition\Ignition\bin\roslyn\System.Collections.Immutable.dll
-D:\facultate\Proiect colectiv\ManagementApp\Ignition\Ignition\bin\roslyn\System.Reflection.Metadata.dll
-D:\facultate\Proiect colectiv\ManagementApp\Ignition\Ignition\bin\roslyn\vbc.exe
-D:\facultate\Proiect colectiv\ManagementApp\Ignition\Ignition\bin\roslyn\VBCSCompiler.exe
-D:\facultate\Proiect colectiv\ManagementApp\Ignition\Ignition\bin\roslyn\VBCSCompiler.exe.config
-D:\facultate\Proiect colectiv\ManagementApp\Ignition\Ignition\bin\Ignition.dll.config
-D:\facultate\Proiect colectiv\ManagementApp\Ignition\Ignition\bin\Ignition.dll
-D:\facultate\Proiect colectiv\ManagementApp\Ignition\Ignition\bin\Ignition.pdb
-D:\facultate\Proiect colectiv\ManagementApp\Ignition\Ignition\bin\Antlr3.Runtime.dll
-D:\facultate\Proiect colectiv\ManagementApp\Ignition\Ignition\bin\EntityFramework.dll
-D:\facultate\Proiect colectiv\ManagementApp\Ignition\Ignition\bin\EntityFramework.SqlServer.dll
-D:\facultate\Proiect colectiv\ManagementApp\Ignition\Ignition\bin\Ignition.Repo.dll
-D:\facultate\Proiect colectiv\ManagementApp\Ignition\Ignition\bin\Microsoft.AI.Agent.Intercept.dll
-D:\facultate\Proiect colectiv\ManagementApp\Ignition\Ignition\bin\Microsoft.AI.DependencyCollector.dll
-D:\facultate\Proiect colectiv\ManagementApp\Ignition\Ignition\bin\Microsoft.AI.PerfCounterCollector.dll
-D:\facultate\Proiect colectiv\ManagementApp\Ignition\Ignition\bin\Microsoft.AI.ServerTelemetryChannel.dll
-D:\facultate\Proiect colectiv\ManagementApp\Ignition\Ignition\bin\Microsoft.AI.Web.dll
-D:\facultate\Proiect colectiv\ManagementApp\Ignition\Ignition\bin\Microsoft.AI.WindowsServer.dll
-D:\facultate\Proiect colectiv\ManagementApp\Ignition\Ignition\bin\Microsoft.ApplicationInsights.dll
-D:\facultate\Proiect colectiv\ManagementApp\Ignition\Ignition\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
-D:\facultate\Proiect colectiv\ManagementApp\Ignition\Ignition\bin\Microsoft.Web.Infrastructure.dll
-D:\facultate\Proiect colectiv\ManagementApp\Ignition\Ignition\bin\Newtonsoft.Json.dll
-D:\facultate\Proiect colectiv\ManagementApp\Ignition\Ignition\bin\System.Net.Http.Formatting.dll
-D:\facultate\Proiect colectiv\ManagementApp\Ignition\Ignition\bin\System.Web.Helpers.dll
-D:\facultate\Proiect colectiv\ManagementApp\Ignition\Ignition\bin\System.Web.Http.dll
-D:\facultate\Proiect colectiv\ManagementApp\Ignition\Ignition\bin\System.Web.Http.WebHost.dll
-D:\facultate\Proiect colectiv\ManagementApp\Ignition\Ignition\bin\System.Web.Mvc.dll
-D:\facultate\Proiect colectiv\ManagementApp\Ignition\Ignition\bin\System.Web.Optimization.dll
-D:\facultate\Proiect colectiv\ManagementApp\Ignition\Ignition\bin\System.Web.Razor.dll
-D:\facultate\Proiect colectiv\ManagementApp\Ignition\Ignition\bin\System.Web.WebPages.Deployment.dll
-D:\facultate\Proiect colectiv\ManagementApp\Ignition\Ignition\bin\System.Web.WebPages.dll
-D:\facultate\Proiect colectiv\ManagementApp\Ignition\Ignition\bin\System.Web.WebPages.Razor.dll
-D:\facultate\Proiect colectiv\ManagementApp\Ignition\Ignition\bin\WebGrease.dll
-D:\facultate\Proiect colectiv\ManagementApp\Ignition\Ignition\bin\Ignition.Repo.pdb
-D:\facultate\Proiect colectiv\ManagementApp\Ignition\Ignition\bin\EntityFramework.xml
-D:\facultate\Proiect colectiv\ManagementApp\Ignition\Ignition\bin\EntityFramework.SqlServer.xml
-D:\facultate\Proiect colectiv\ManagementApp\Ignition\Ignition\bin\Microsoft.AI.DependencyCollector.xml
-D:\facultate\Proiect colectiv\ManagementApp\Ignition\Ignition\bin\Microsoft.AI.ServerTelemetryChannel.xml
-D:\facultate\Proiect colectiv\ManagementApp\Ignition\Ignition\bin\Microsoft.AI.Web.xml
-D:\facultate\Proiect colectiv\ManagementApp\Ignition\Ignition\bin\Microsoft.AI.WindowsServer.xml
-D:\facultate\Proiect colectiv\ManagementApp\Ignition\Ignition\bin\Microsoft.ApplicationInsights.xml
-D:\facultate\Proiect colectiv\ManagementApp\Ignition\Ignition\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
-D:\facultate\Proiect colectiv\ManagementApp\Ignition\Ignition\bin\Newtonsoft.Json.xml
-D:\facultate\Proiect colectiv\ManagementApp\Ignition\Ignition\bin\System.Net.Http.Formatting.xml
-D:\facultate\Proiect colectiv\ManagementApp\Ignition\Ignition\bin\System.Web.Helpers.xml
-D:\facultate\Proiect colectiv\ManagementApp\Ignition\Ignition\bin\System.Web.Http.xml
-D:\facultate\Proiect colectiv\ManagementApp\Ignition\Ignition\bin\System.Web.Http.WebHost.xml
-D:\facultate\Proiect colectiv\ManagementApp\Ignition\Ignition\bin\System.Web.Mvc.xml
-D:\facultate\Proiect colectiv\ManagementApp\Ignition\Ignition\bin\System.Web.Optimization.xml
-D:\facultate\Proiect colectiv\ManagementApp\Ignition\Ignition\bin\System.Web.Razor.xml
-D:\facultate\Proiect colectiv\ManagementApp\Ignition\Ignition\bin\System.Web.WebPages.xml
-D:\facultate\Proiect colectiv\ManagementApp\Ignition\Ignition\bin\System.Web.WebPages.Deployment.xml
-D:\facultate\Proiect colectiv\ManagementApp\Ignition\Ignition\bin\System.Web.WebPages.Razor.xml
-D:\facultate\Proiect colectiv\ManagementApp\Ignition\Ignition\bin\Antlr3.Runtime.pdb
-D:\facultate\Proiect colectiv\ManagementApp\Ignition\Ignition\obj\Debug\Ignition.API.csprojResolveAssemblyReference.cache
-D:\facultate\Proiect colectiv\ManagementApp\Ignition\Ignition\obj\Debug\Ignition.dll
-D:\facultate\Proiect colectiv\ManagementApp\Ignition\Ignition\obj\Debug\Ignition.pdb
->>>>>>> Stashed changes
+D:\facultate\ProiectColectiv\ManagementApp\Ignition\Ignition\bin\ApplicationInsights.config
+D:\facultate\ProiectColectiv\ManagementApp\Ignition\Ignition\bin\roslyn\csc.exe
+D:\facultate\ProiectColectiv\ManagementApp\Ignition\Ignition\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+D:\facultate\ProiectColectiv\ManagementApp\Ignition\Ignition\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+D:\facultate\ProiectColectiv\ManagementApp\Ignition\Ignition\bin\roslyn\Microsoft.CodeAnalysis.dll
+D:\facultate\ProiectColectiv\ManagementApp\Ignition\Ignition\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+D:\facultate\ProiectColectiv\ManagementApp\Ignition\Ignition\bin\roslyn\Microsoft.CSharp.Core.targets
+D:\facultate\ProiectColectiv\ManagementApp\Ignition\Ignition\bin\roslyn\Microsoft.VisualBasic.Core.targets
+D:\facultate\ProiectColectiv\ManagementApp\Ignition\Ignition\bin\roslyn\System.Collections.Immutable.dll
+D:\facultate\ProiectColectiv\ManagementApp\Ignition\Ignition\bin\roslyn\System.Reflection.Metadata.dll
+D:\facultate\ProiectColectiv\ManagementApp\Ignition\Ignition\bin\roslyn\vbc.exe
+D:\facultate\ProiectColectiv\ManagementApp\Ignition\Ignition\bin\roslyn\VBCSCompiler.exe
+D:\facultate\ProiectColectiv\ManagementApp\Ignition\Ignition\bin\roslyn\VBCSCompiler.exe.config
+D:\facultate\ProiectColectiv\ManagementApp\Ignition\Ignition\bin\Ignition.dll.config
+D:\facultate\ProiectColectiv\ManagementApp\Ignition\Ignition\bin\Ignition.dll
+D:\facultate\ProiectColectiv\ManagementApp\Ignition\Ignition\bin\Ignition.pdb
+D:\facultate\ProiectColectiv\ManagementApp\Ignition\Ignition\bin\Antlr3.Runtime.dll
+D:\facultate\ProiectColectiv\ManagementApp\Ignition\Ignition\bin\EntityFramework.dll
+D:\facultate\ProiectColectiv\ManagementApp\Ignition\Ignition\bin\EntityFramework.SqlServer.dll
+D:\facultate\ProiectColectiv\ManagementApp\Ignition\Ignition\bin\Ignition.Repo.dll
+D:\facultate\ProiectColectiv\ManagementApp\Ignition\Ignition\bin\Microsoft.AI.Agent.Intercept.dll
+D:\facultate\ProiectColectiv\ManagementApp\Ignition\Ignition\bin\Microsoft.AI.DependencyCollector.dll
+D:\facultate\ProiectColectiv\ManagementApp\Ignition\Ignition\bin\Microsoft.AI.PerfCounterCollector.dll
+D:\facultate\ProiectColectiv\ManagementApp\Ignition\Ignition\bin\Microsoft.AI.ServerTelemetryChannel.dll
+D:\facultate\ProiectColectiv\ManagementApp\Ignition\Ignition\bin\Microsoft.AI.Web.dll
+D:\facultate\ProiectColectiv\ManagementApp\Ignition\Ignition\bin\Microsoft.AI.WindowsServer.dll
+D:\facultate\ProiectColectiv\ManagementApp\Ignition\Ignition\bin\Microsoft.ApplicationInsights.dll
+D:\facultate\ProiectColectiv\ManagementApp\Ignition\Ignition\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+D:\facultate\ProiectColectiv\ManagementApp\Ignition\Ignition\bin\Microsoft.Web.Infrastructure.dll
+D:\facultate\ProiectColectiv\ManagementApp\Ignition\Ignition\bin\Newtonsoft.Json.dll
+D:\facultate\ProiectColectiv\ManagementApp\Ignition\Ignition\bin\System.Net.Http.Formatting.dll
+D:\facultate\ProiectColectiv\ManagementApp\Ignition\Ignition\bin\System.Web.Helpers.dll
+D:\facultate\ProiectColectiv\ManagementApp\Ignition\Ignition\bin\System.Web.Http.dll
+D:\facultate\ProiectColectiv\ManagementApp\Ignition\Ignition\bin\System.Web.Http.WebHost.dll
+D:\facultate\ProiectColectiv\ManagementApp\Ignition\Ignition\bin\System.Web.Mvc.dll
+D:\facultate\ProiectColectiv\ManagementApp\Ignition\Ignition\bin\System.Web.Optimization.dll
+D:\facultate\ProiectColectiv\ManagementApp\Ignition\Ignition\bin\System.Web.Razor.dll
+D:\facultate\ProiectColectiv\ManagementApp\Ignition\Ignition\bin\System.Web.WebPages.Deployment.dll
+D:\facultate\ProiectColectiv\ManagementApp\Ignition\Ignition\bin\System.Web.WebPages.dll
+D:\facultate\ProiectColectiv\ManagementApp\Ignition\Ignition\bin\System.Web.WebPages.Razor.dll
+D:\facultate\ProiectColectiv\ManagementApp\Ignition\Ignition\bin\WebGrease.dll
+D:\facultate\ProiectColectiv\ManagementApp\Ignition\Ignition\bin\Ignition.Repo.pdb
+D:\facultate\ProiectColectiv\ManagementApp\Ignition\Ignition\bin\EntityFramework.xml
+D:\facultate\ProiectColectiv\ManagementApp\Ignition\Ignition\bin\EntityFramework.SqlServer.xml
+D:\facultate\ProiectColectiv\ManagementApp\Ignition\Ignition\bin\Microsoft.AI.DependencyCollector.xml
+D:\facultate\ProiectColectiv\ManagementApp\Ignition\Ignition\bin\Microsoft.AI.ServerTelemetryChannel.xml
+D:\facultate\ProiectColectiv\ManagementApp\Ignition\Ignition\bin\Microsoft.AI.Web.xml
+D:\facultate\ProiectColectiv\ManagementApp\Ignition\Ignition\bin\Microsoft.AI.WindowsServer.xml
+D:\facultate\ProiectColectiv\ManagementApp\Ignition\Ignition\bin\Microsoft.ApplicationInsights.xml
+D:\facultate\ProiectColectiv\ManagementApp\Ignition\Ignition\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+D:\facultate\ProiectColectiv\ManagementApp\Ignition\Ignition\bin\Newtonsoft.Json.xml
+D:\facultate\ProiectColectiv\ManagementApp\Ignition\Ignition\bin\System.Net.Http.Formatting.xml
+D:\facultate\ProiectColectiv\ManagementApp\Ignition\Ignition\bin\System.Web.Helpers.xml
+D:\facultate\ProiectColectiv\ManagementApp\Ignition\Ignition\bin\System.Web.Http.xml
+D:\facultate\ProiectColectiv\ManagementApp\Ignition\Ignition\bin\System.Web.Http.WebHost.xml
+D:\facultate\ProiectColectiv\ManagementApp\Ignition\Ignition\bin\System.Web.Mvc.xml
+D:\facultate\ProiectColectiv\ManagementApp\Ignition\Ignition\bin\System.Web.Optimization.xml
+D:\facultate\ProiectColectiv\ManagementApp\Ignition\Ignition\bin\System.Web.Razor.xml
+D:\facultate\ProiectColectiv\ManagementApp\Ignition\Ignition\bin\System.Web.WebPages.xml
+D:\facultate\ProiectColectiv\ManagementApp\Ignition\Ignition\bin\System.Web.WebPages.Deployment.xml
+D:\facultate\ProiectColectiv\ManagementApp\Ignition\Ignition\bin\System.Web.WebPages.Razor.xml
+D:\facultate\ProiectColectiv\ManagementApp\Ignition\Ignition\bin\Antlr3.Runtime.pdb
+D:\facultate\ProiectColectiv\ManagementApp\Ignition\Ignition\obj\Debug\Ignition.API.csprojResolveAssemblyReference.cache
+D:\facultate\ProiectColectiv\ManagementApp\Ignition\Ignition\obj\Debug\Ignition.dll
+D:\facultate\ProiectColectiv\ManagementApp\Ignition\Ignition\obj\Debug\Ignition.pdb
