@@ -194,6 +194,7 @@
     <Compile Include="Controllers\LoginController.cs" />
     <Compile Include="Controllers\ReaderHomeController.cs" />
     <Compile Include="Controllers\ValuesController.cs" />
+    <Compile Include="Controllers\WorkingZone.cs" />
     <Compile Include="Global.asax.cs">
       <DependentUpon>Global.asax</DependentUpon>
     </Compile>
