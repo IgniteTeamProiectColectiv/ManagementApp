@@ -66,8 +66,8 @@
                 
                 @using (Html.BeginForm("Index", "Login", FormMethod.Post))
                 {
-                    @Html.TextBoxFor(m => m.Username)
-                    @Html.PasswordFor(m => m.Password)
+                    @Html.TextBoxFor(m => m.Username);
+                    @Html.PasswordFor(m => m.Password);
                     <input type="submit" value="Login" />
                 }
             </div>

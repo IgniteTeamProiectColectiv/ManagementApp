@@ -3,31 +3,35 @@ using System.Collections.Generic;
 using System.Linq;
 using System.Web;
 using System.Web.Mvc;
-using Ignition.Repo.Model;
 using Ignition.Repo;
 using System.Data.SqlClient;
 using Ignition.Models;
+using Ignition.Repo.Dto;
+using Ignition.Repo.Dao;
 
 namespace Ignition.Controllers
 {
     public class LoginController:HomeController
     {
+        private UserDao userDao;
+
+        public LoginController() {
+            userDao = new UserDao();
+        }
+
         [System.Web.Http.Route("Login")]
         [HttpPost]
-        public ActionResult Login(UserLogin model)
+        public ActionResult Index(Models.UserLogin model)
         {
-            User user = new User(model.Username, model.Password);
-            user.Id = 1;
-            user.Role = 1;
-            if (user == null || string.IsNullOrEmpty(user.Username) || string.IsNullOrEmpty(user.Password))
+            if (string.IsNullOrEmpty(model.Username) || string.IsNullOrEmpty(model.Password))
             {
                 return View("Login");// redirrect to LoginPage
             }
             else
             {
-                igniteDataContext context = new igniteDataContext();
+                UserDto user = userDao.isUser(model.Username, model.Password);
                 
-                if (context.Users.Contains(user))
+                if (user != null)
                 {
                     if (user.Role == 1)
                         return View("ReaderHome", user.Username);

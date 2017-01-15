@@ -21,6 +21,11 @@ namespace Ignition.Repo.Model
         public string Password { get; set; }
         public int Role { get; set; }
 
+        public User()
+        {
+
+        }
+
         public User(String _username, String _password)
         {
             Username = _username;

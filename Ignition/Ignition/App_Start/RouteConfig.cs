@@ -22,7 +22,7 @@ namespace Ignition
             routes.MapRoute(
                 name: "ReaderHome",
                 url: "{controller}/{action}/{id}",
-                defaults: new { controller = "ReaderHome", action = "ReaderHome", id = UrlParameter.Optional }
+                defaults: new { controller = "ReaderHome", action = "Index", id = UrlParameter.Optional }
             );
 
             routes.MapRoute(

@@ -5,14 +5,14 @@
     using System.Data.Entity.Migrations;
     using System.Linq;
 
-    internal sealed class Configuration : DbMigrationsConfiguration<Ignition.Repo.igniteDataContext>
+    internal sealed class Configuration : DbMigrationsConfiguration<Ignition.Repo.IgniteDataContext>
     {
         public Configuration()
         {
             AutomaticMigrationsEnabled = true;
         }
 
-        protected override void Seed(Ignition.Repo.igniteDataContext context)
+        protected override void Seed(Ignition.Repo.IgniteDataContext context)
         {
             //  This method will be called after migrating to the latest version.
 

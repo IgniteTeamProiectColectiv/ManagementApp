@@ -13,7 +13,7 @@ namespace Ignition.Controllers
         [HttpGet]
         public  ActionResult Documents(int zoneId, int userId)
         {
-            var context = new igniteDataContext();
+            var context = new IgniteDataContext();
             List<string> docs = new List<string>();
             if (zoneId == 1)//zona de lucru
             {
