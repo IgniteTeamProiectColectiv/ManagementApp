@@ -1,0 +1,22 @@
+.logoBg {
+    background-color: #c8daf6;
+}
+
+.form {
+    background-color: #5f80b4;
+    border-radius: 5%;
+    box-shadow: 2px 5px 5px;
+}
+
+.text-color-white {
+    color: #ffffff;
+}
+
+.login-btn-text-color {
+    color: #5f80b4;
+}
+
+.margin-login-btn {
+    margin-bottom: 3%;
+}
+

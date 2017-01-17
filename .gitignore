@@ -1,0 +1,8 @@
+*.suo
+Ignition/.vs/*
+*.cache
+Ignition/Ignition.Repo/obj/*
+Ignition/Ignition.Repo/bin/*
+Ignition/Ignition/obj/*
+Ignition/Ignition/bin/*
+
